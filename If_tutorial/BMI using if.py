@@ -1,4 +1,4 @@
-height = input("Enter your height:")
+#height = input("Enter your height:")
 height=float(height)
 weight = input("Enter your weight:")
 weight=float(weight)
